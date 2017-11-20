@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/gym_accesBoss_level1.unity
+    guid: 4c35a21193b05d64da84ad6633c941b7
+  - enabled: 1
+    path: Assets/Scenes/gym_accesBoss_level2.unity
+    guid: d9850dc865e128e4caff646da783175a
+  - enabled: 1
+    path: Assets/Scenes/gym_accesBoss_level3.unity
+    guid: 2103f8348037a824dab6602ddd0ebf71
+  - enabled: 1
+    path: Assets/Scenes/gym_accesBoss_levelBoss.unity
+    guid: ecce6c02d48c769478c8af181860d4c9
+  - enabled: 1
+    path: Assets/Scenes/gym_accesBoss_menu.unity
+    guid: a3e2525ccdf7d77479b7213098e22637
+  - enabled: 1
+    path: Assets/Scenes/gym_accessBoss_level3.unity
+    guid: e28786b4ba19aa84fb083bb6e5571545
+  - enabled: 1
+    path: Assets/Scenes/gym_chargement.unity
+    guid: 5f2a38c099e096b4cb5df81aed09bb66
+  - enabled: 1
+    path: Assets/Scenes/gym_competences_arbre.unity
+    guid: be3190adeb65c4b45a1272e761e4c697
+  - enabled: 1
+    path: Assets/Scenes/gym_competences_level.unity
+    guid: 2ba98b9cd2577bd49a12809308ddf241
+  - enabled: 1
+    path: Assets/Scenes/gym_competences_menu.unity
+    guid: 80217f38f8db8cb4ca285b639101fde2
+  - enabled: 1
+    path: Assets/Scenes/gym_volPlane.unity
+    guid: 449f79d82f194b044af33c5089ce882c
+  - enabled: 1
+    path: Assets/Scenes/Gym_Charge.unity
+    guid: 8d37a4d0d5cefb14e9f6b179e74ad404
+  - enabled: 1
+    path: Assets/Scenes/Gym_RocketJump.unity
+    guid: c93e492be0d03f94ba1ab3fd5cca3615
+  - enabled: 1
+    path: Assets/Scenes/gym_grappin.unity
+    guid: ab0d1e102d996d24c9376e32b2526fe5
+  - enabled: 1
+    path: Assets/Scenes/gym_dash.unity
+    guid: b0f847a0ade78d440ba587e87244dc51
